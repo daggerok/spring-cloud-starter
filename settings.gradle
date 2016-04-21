@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-starter'
+include ':cloud-config-server',
+        ':discovery-service-registry',
+        ':service'

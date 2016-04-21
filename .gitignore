@@ -1,0 +1,8 @@
+**/.gradle/
+**/out/
+**/.DS_Store
+**/*.iws
+**/.idea/
+**/build/
+**/gradle/
+**/gradlew*
